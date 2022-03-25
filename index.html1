@@ -1,2 +1,29 @@
-<html><head>The One</head>
+<!DOCTYPE html>
+<html>
+<head>
+<title>The World of Code is the best</title>
+</head>
+<body>
+
+<h1>Making my first program is creating passion for coding.</h1>
+<p>Am so proud to be cold a programmer its important for me to be what I was boe to be. </p>
+<table>
+  <tr>
+    <th>Patient's Name</th>
+    <th>Diagonalisisis</th>
+    <th>Results</th>
+  </tr>
+  <tr>
+    <td>Amiito</td>
+    <td>Cate</td>
+    <td>John</td>
+  </tr>
+  <tr>
+    <td>Positive</td>
+    <td>Negative</td>
+    <td>Not Sure</td>
+  </tr>
+</table>
+ <img src="pic_trulli.jpg" alt="Italian Trulli">
+</body>
 </html>
